@@ -1,0 +1,10 @@
+# application
+fastapi>=0.110
+pydantic>=2.6
+uvicorn>=0.27
+pymongo>=4.6
+python-dotenv>=1.0
+# tests (tests/) and test tooling (tools/)
+pytest>=8.0
+httpx>=0.27
+mongomock>=4.1
